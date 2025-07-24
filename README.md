@@ -4,6 +4,10 @@ This library is the Client library for a Minecraft Game Skills and MCP Integrati
 
 Fairies MCP Client (<https://fairies.ai/>) also supports direct connection with a single click.
 
+<a href="https://glama.ai/mcp/servers/@leo4life2/minecraft-mcp-http">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@leo4life2/minecraft-mcp-http/badge" alt="Minecraft Server MCP server" />
+</a>
+
 ## Features
 
 - **Full Minecraft Control**: Connect AI agents to Minecraft servers and control bots
